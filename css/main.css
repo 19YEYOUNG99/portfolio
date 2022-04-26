@@ -250,7 +250,7 @@ header div a {
 
 /* .g_ver05 */
 .g_ver05 {
-    background-color: #eee;
+    background-color: #f2d7cbb6;
     padding: 100px 0;
 }
 .g_ver05 .title {
@@ -368,16 +368,16 @@ header div a {
 }
 
 footer {
-    background-color: #333;
+    background-color: #f2d7cbb6;
     text-align: center;
-    color: #fff;
+    color: #333;
     padding: 100px 0;
 }
 footer ul li {
     width: 280px;
     height: 50px;
     line-height: 50px;
-    border: 1px solid #fff;
+    border: 1px solid rgba(51, 51, 51, 0.212);
     border-radius: 50px;
     margin: 10px auto;
 
@@ -389,7 +389,7 @@ footer ul li {
     외부여백 : 위아래 10px 좌우 자동 */
 }
 footer ul li a {
-    color: #fff;
+    color: #333;
 }footer ul li:first-child {
     background-color: #fff;
     font-weight: bold;
@@ -400,7 +400,7 @@ footer ul li:first-child a {
 footer p {
     margin-top: 20px;
     font-size: 14px;
-    color: rgba(255, 255, 255, 0.363)
+    color: rgba(51, 51, 51, 0.418)
 }
 
 /* 반응형 제작
